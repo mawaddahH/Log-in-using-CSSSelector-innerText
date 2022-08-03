@@ -24,7 +24,7 @@ public class ChromeWebDriverAss4W9D3 {
 				"C:\\Users\\lo0ol\\" + "Downloads\\Compressed\\chromedriver_win32\\chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
-		driver.get("https://www.instagram.com/");
+		driver.get("https://www.instagram.com/accounts/login/");
 		System.out.println(driver.getTitle());
 		Thread.sleep(5000); // waiting for the elements to load and be visible to use
 
