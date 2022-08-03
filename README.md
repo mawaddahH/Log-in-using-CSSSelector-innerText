@@ -38,7 +38,7 @@ I opened the website, then take web elements, and then add them to the code I us
 `HTMLtag[attribute*=sub string]`.
 And cssSelector with multiple attributes as syntax: `HTMLtag[attribute=value][attribute=value]` .
 
-The cssSelector are:
+The cssSelector I wrote it are:
 - Username TextField
 ```md
 input[aria-label*='number,']
