@@ -58,8 +58,9 @@ button[class*='L3NKy']
 ```
 
 <p align="center">
+- Facebook Page
 <img src="https://user-images.githubusercontent.com/48597284/182659064-e0abe25d-8fdf-4d6f-88fd-f48d77acd889.png" width=60% height=60%>
-
+- Instagram Page
 <img src="https://user-images.githubusercontent.com/48597284/182501619-3c9ac981-875c-403f-ac8b-ddf051d25a5a.png" width=60% height=60%>
 </p>
 
